@@ -30,7 +30,7 @@
   "dependencies": {
     "event-stream": "^3.3.2",
     "gulp-util": "^3.0.7",
-    "jade-inheritance": "^0.2.1",
+    "jade-inheritance": "git://github.com/evgen3-forks/jade-inheritance.git#master",
     "lodash": "^3.10.1",
     "through2": "^2.0.0",
     "vinyl-fs": "^2.2.1"
